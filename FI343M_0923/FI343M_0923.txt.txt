@@ -1,0 +1,6 @@
+cmd
+Parancsok:
+git status parancs
+git add
+git commit
+git push
